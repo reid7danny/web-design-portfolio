@@ -201,3 +201,8 @@ body footer {
   margin: 30px;
   padding: 5px 5px 5px 15px;
 }
+.lineargradientcooking {
+  background-image: linear-gradient(blue , white);
+  border: solid #777;
+  border-width: 2pt 2pt 2pt 2pt;
+}
